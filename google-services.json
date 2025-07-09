@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969526899429",
+    "project_id": "evalyasmart",
+    "storage_bucket": "evalyasmart.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969526899429:android:604658ba349e38cb28da0c",
+        "android_client_info": {
+          "package_name": "com.evalyasmart.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdO8MrWPUf5AJG2gtu0fWeEF4XZhdnj0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
